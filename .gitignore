@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Prefect artifacts
+.prefectignore
+
+# Local development files
+.env
+.idea/
+.vscode/
+
+# System files
+.DS_Store
